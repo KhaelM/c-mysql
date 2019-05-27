@@ -1,0 +1,1 @@
+gcc table.c -o table  `mysql_config --cflags --libs`

@@ -1,0 +1,1 @@
+gcc createdb.c -o createdb  `mysql_config --cflags --libs`
